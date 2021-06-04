@@ -619,3 +619,589 @@ This two line of text can hold a main caption about your news post
             <!-- inner-section : ends -->
         </section>
 
+       
+         <!-- Intermediate-section : starts -->
+         <section class="intermediate-secton page-section pad-top pad-bottom main">
+            <!-- inner-section : starts -->
+            <section class="inner-section">
+                <!-- container : starts -->
+                <section class="container">
+                    <div class="row">
+                        <artsicle class="col-md-12 text-center">
+                            <div class="intermediate-testimonial">
+
+                                <div class="one-section-owl-pag-no-nav-contaner">
+                                    <div class="one-section-owl-pag-no-nav owl-carousel home-container">
+                                        <div class="item">
+                                            <div class="testimonial-wrap">
+                                                <div class="img-section text-center">
+                                                    <img src="images/intermediate/2.png" alt="arc" data-no-retina>
+                                                </div>
+                                                <div class="text-content text-center">
+                                                    <p class="font3">
+                                                        It's a treat to watch these themes. Truly a visual treat to our eyes - you guys are simply amazing
+                                                    </p>
+                                                </div>
+                                                <div class="name-secion text-center">
+                                                    <p class="font1">logan liam</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="testimonial-wrap">
+                                                <div class="img-section text-center">
+                                                    <img src="images/intermediate/3.png" alt="arc" data-no-retina>
+                                                </div>
+                                                <div class="text-content text-center">
+                                                    <p class="font3">
+                                                        Hands down, with your assistance we have been able to double the customer contact that we successfully touch every single day
+                                                    </p>
+                                                </div>
+                                                <div class="name-secion text-center">
+                                                    <p class="font1">lorrie jack</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="testimonial-wrap">
+                                                <div class="img-section text-center">
+                                                    <img src="images/intermediate/4.png" alt="arc" data-no-retina>
+                                                </div>
+                                                <div class="text-content text-center">
+                                                    <p class="font3">
+                                                        Your passion for dynamic, gorgeous design and the little details comes through with every click of the mouse
+                                                    </p>
+                                                </div>
+                                                <div class="name-secion text-center">
+                                                    <p class="font1">alexis olivier</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </article>
+                    </div>
+                </section>
+                <!-- container : ends -->
+            </section>
+            <!-- inner-section : ends -->
+        </section>
+        <!-- Intermediate-section : ends -->   
+
+
+
+        <!-- social-button-section : starts -->
+        <section id="social-button" class="page-section">
+            <!-- inner-section : starts -->
+            <section class="inner-section social-button-wrap">
+                <a class="button-over facebook" href="index02.html#">
+
+                    <!-- cube:starts -->
+                    <div class="cube">
+                        <div class="flippety featured-thumb featured-thumb-01">
+                        </div>
+                        <div class="flop featured-thumb featured-thumb-01">
+                            <div class="featured-thumb-overlay">
+                                <div class="valign">
+                                    <span class="font2">FACEBOOK</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- cube:ends -->
+
+                </a>
+
+                <a class="button-over linkedin" href="index02.html#">
+
+                    <!-- cube:starts -->
+                    <div class="cube">
+                        <div class="flippety featured-thumb featured-thumb-01">
+                        </div>
+                        <div class="flop featured-thumb featured-thumb-01">
+                            <div class="featured-thumb-overlay">
+                                <div class="valign">
+                                    <span class="font2">LINKEDIN</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- cube:ends -->
+
+                </a>
+
+                <a class="button-over twitter" href="index02.html#">
+
+                    <!-- cube:starts -->
+                    <div class="cube">
+                        <div class="flippety featured-thumb featured-thumb-01">
+                        </div>
+                        <div class="flop featured-thumb featured-thumb-01">
+                            <div class="featured-thumb-overlay">
+                                <div class="valign">
+                                    <span class="font2">TWITTER</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- cube:ends -->
+
+                </a>
+
+                <a class="button-over behance" href="index02.html#">
+
+                    <!-- cube:starts -->
+                    <div class="cube">
+                        <div class="flippety featured-thumb featured-thumb-01">
+                        </div>
+                        <div class="flop featured-thumb featured-thumb-01">
+                            <div class="featured-thumb-overlay">
+                                <div class="valign">
+                                    <span class="font2">BEHANCE</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- cube:ends -->
+
+                </a>
+                <div class="clear-float"></div>
+            </section>
+            <!-- inner-section : ends -->
+        </section>
+        <!-- social-button-section : ends -->
+
+
+                    <div class="row">
+                        <article class="col-md-12">
+                            <div class="about-carousel-cnt">
+                                <!-- slide section -->
+                                <ul class="synced-bx bxslider">
+
+                                    <!-- First Slide -->
+                                    <li>
+                                        <div class="about-content text-center">
+                                            <p class="font2">
+                                                tab1.
+                                            </p>
+                                        </div>
+                                    </li>
+
+                                    <!-- Second Slide -->
+                                    <li>
+                                        <div class="about-content text-center">
+                                            <p class="font2">
+                                                tab2.
+                                            </p>
+                                        </div>
+                                    </li>
+
+                                    <!-- Third Slide -->
+                                    <li>
+                                        <div class="about-content text-center">
+                                            <p class="font2 add-bottom-min-quarter">
+                                                Tab3.
+                                            </p>
+                                        </div>
+                                    </li>
+
+                                    <!-- Fourth Slide -->
+                                    <li>
+                                        <div class="about-content text-center">
+                                            <p class="font2 add-bottom-min-quarter">
+                                                Tab4
+                                            </p>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                                <!-- page section -->
+                                <div id="bx-pager" class="text-center synced-bx-page">
+
+                                    <!-- First Block -->
+                                    <a data-slide-index="0" href="" class="about-cube">
+
+                                        <!-- cube:starts -->
+                                        <div class="cube">
+                                            <div class="flippety featured-thumb featured-thumb-01">
+                                            </div>
+                                            <div class="flop featured-thumb featured-thumb-01">
+                                                <div class="featured-thumb-overlay">
+                                                    <div class="valign">
+                                                        <span class="font2">TAB ONE</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- cube:ends -->
+
+                                    </a>
+                                    <!-- 
+Second Block
+-->
+                                    <a data-slide-index="1" href="" class="about-cube">
+
+                                        <!-- cube:starts -->
+                                        <div class="cube">
+                                            <div class="flippety featured-thumb featured-thumb-02">
+                                            </div>
+                                            <div class="flop featured-thumb featured-thumb-02">
+                                                <div class="featured-thumb-overlay">
+                                                    <div class="valign">
+                                                        <span class="font2">TAB TWO</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- cube:ends -->
+
+                                    </a>
+                                    <!-- 
+Third Block
+-->
+                                    <a data-slide-index="2" href="" class="about-cube">
+
+                                        <!-- cube:starts -->
+                                        <div class="cube">
+                                            <div class="flippety featured-thumb featured-thumb-03">
+                                            </div>
+                                            <div class="flop featured-thumb featured-thumb-03">
+                                                <div class="featured-thumb-overlay">
+                                                    <div class="valign">
+                                                        <span class="font2">TAB THREE</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- cube:ends -->
+   <!-- 
+Fourth Block
+-->
+<a data-slide-index="2" href="" class="about-cube">
+
+    <!-- cube:starts -->
+    <div class="cube">
+        <div class="flippety featured-thumb featured-thumb-03">
+        </div>
+        <div class="flop featured-thumb featured-thumb-03">
+            <div class="featured-thumb-overlay">
+                <div class="valign">
+                    <span class="font2">TAB THREE</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- cube:ends -->
+   <!-- 
+Fifth Block
+-->
+<a data-slide-index="2" href="" class="about-cube">
+
+    <!-- cube:starts -->
+    <div class="cube">
+        <div class="flippety featured-thumb featured-thumb-03">
+        </div>
+        <div class="flop featured-thumb featured-thumb-03">
+            <div class="featured-thumb-overlay">
+                <div class="valign">
+                    <span class="font2">TAB THREE</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- cube:ends -->
+
+                                    </a>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+
+
+-----------------
+portfolio section
+
+            <!-- inner-section : starts -->
+            <section class="inner-section pad-top pad-bottom light-black">
+                <!-- container : starts -->
+                <section class="container">
+
+                    <div class="row">
+                        <article class="col-md-12">
+
+                            <div class="filterable-portfolio">
+                                <div class="filter-options main text-center">
+                                    <section id="options" class="clearfix">
+                                        <ul id="filters" class="option-set clearfix" data-option-key="filter">
+
+                                            <li class="inner-link"><a href="index02.html#filter" data-option-value="*" class="selected ">all</a></li>
+                                            <li class="inner-link"><a href="index02.html#filter" data-option-value=".branding">branding</a></li>
+                                            <li class="inner-link"><a href="index02.html#filter" data-option-value=".design">design</a></li>
+                                            <li class="inner-link"><a href="index02.html#filter" data-option-value=".photography">photography</a></li>
+
+                                        </ul>
+                                    </section>
+                                    <!-- #options -->
+                                </div>
+
+                                <div id="container" class="clearfix portfolio">
+
+                                    <!-- First Grid Block -->
+                                    <div class="element size-one branding">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/1.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox type One Content -->
+                                        <a class="hidden-content lightbox-content" href="index02.html#" data-featherlight="#">
+                                            <span class="text-wrap">
+                                            <span class="text font2">lightbox with text1</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                        <!-- Lightbox Content -->
+                                        <div class="lightbox-content-dock img_content">
+                                            <div class="img-section">
+                                                <img class="img-responsive" src="images/portfolio/1.jpg" alt="arc" data-no-retina>
+                                            </div>
+                                            <div class="content-section">
+                                                <div class="heading">
+                                                    <h2 class="font1">Title Here</h2>
+                                                </div>
+                                                <div class="content">
+                                                    <p class="font2">
+                                                        Praesent ut tempor enim, vel posuere nibh. Donec scelerisque libero ac commodo ullamcorper. Aliquam semper, tortor vel tincidunt commodo, justo arcu tincidunt mauris, id mollis nisi nulla ut justo. Nulla et nunc in dolor tincidunt tristique. Nulla molestie ut massa nec blandit.
+                                                    </p>
+                                                </div>
+                                                <div class="lightbox-button-section">
+                                                    <a class="btn-arc-transparent-big btn-black" href="index02.html#">
+                                                        <span class="text font1">learn more about us</span>
+                                                        <span class="btnBefore"></span>
+                                                        <span class="btnAfter"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Second Grid Block -->
+                                    <div class="element size-two branding">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/7.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox type Two Content -->
+                                        <a class="hidden-content lightbox-content" href="index02.html#" data-featherlight="#">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                        <!-- Lightbox Content -->
+                                        <div class="lightbox-content-dock img_only">
+                                            <div class="img-section">
+                                                <img class="img-responsive" src="images/portfolio/7.jpg" alt="arc" data-no-retina>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Third Grid Block -->
+                                    <div class="element size-one photography">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/4.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox with vimeo video -->
+                                        <a class="popup-vimeo hidden-content" href="https://vimeo.com/45830194">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox video #vimeo</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Fourth Grid Block -->
+                                    <div class="element size-one design">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/5.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox with youtube video -->
+                                        <a class="popup-youtube hidden-content" href="http://www.youtube.com/watch?v=0O2aH4XLbto">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox video #youtube</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Fifth Grid Block -->
+                                    <div class="element size-two design">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/10.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- External Link -->
+                                        <a class="hidden-content" href="single-project.html">
+                                            <span class="text-wrap">
+                                            <span class="text font2">Garlic</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Sixth Grid Block -->
+                                    <div class="element size-one branding">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/2.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox with youtube video -->
+                                        <a class="popup-youtube hidden-content" href="http://www.youtube.com/watch?v=0O2aH4XLbto">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox video #youtube</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Seventh Grid Block -->
+                                    <div class="element size-two photography">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/8.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox type Two Content -->
+                                        <a class="hidden-content lightbox-content" href="index02.html#" data-featherlight="#">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                        <!-- Lightbox Content -->
+                                        <div class="lightbox-content-dock img_only">
+                                            <div class="img-section">
+                                                <img class="img-responsive" src="images/portfolio/8.jpg" alt="arc" data-no-retina>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Eighth Grid Block -->
+                                    <div class="element size-two branding">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/11.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox type One Content -->
+                                        <a class="hidden-content lightbox-content" href="index02.html#" data-featherlight="#">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox with text</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                        <!-- Lightbox Content -->
+                                        <div class="lightbox-content-dock img_content">
+                                            <div class="img-section">
+                                                <img class="img-responsive" src="images/portfolio/11.jpg" alt="arc" data-no-retina>
+                                            </div>
+                                            <div class="content-section">
+                                                <div class="heading">
+                                                    <h2 class="font1">Title Here</h2>
+                                                </div>
+                                                <div class="content">
+                                                    <p class="font2">
+                                                        Praesent ut tempor enim, vel posuere nibh. Donec scelerisque libero ac commodo ullamcorper. Aliquam semper, tortor vel tincidunt commodo, justo arcu tincidunt mauris, id mollis nisi nulla ut justo. Nulla et nunc in dolor tincidunt tristique. Nulla molestie ut massa nec blandit.
+                                                    </p>
+                                                </div>
+                                                <div class="lightbox-button-section">
+                                                    <a class="btn-arc-transparent-big btn-gray" href="index02.html#">
+                                                        <span class="text font1">learn more about us</span>
+                                                        <span class="btnBefore"></span>
+                                                        <span class="btnAfter"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- Ninth Grid Block -->
+                                    <div class="element size-one photography">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/3.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox with vimeo video -->
+                                        <a class="popup-youtube hidden-content" href="http://www.youtube.com/watch?v=0O2aH4XLbto">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox video #vimeo</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Tenth Grid Block -->
+                                    <div class="element size-one photography">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/6.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- External Link -->
+                                        <a class="hidden-content" href="single-project.html">
+                                            <span class="text-wrap">
+<span class="text font2">External Link</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Eleventh Grid Block -->
+                                    <div class="element size-two branding">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/12.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- External Link -->
+                                        <a class="hidden-content" href="single-project.html">
+                                            <span class="text-wrap">
+<span class="text font2">External Link</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                    </div>
+
+                                    <!-- Twelth Grid Block -->
+                                    <div class="element size-one design">
+                                        <div class="img-section">
+                                            <img class="img-responsive" src="images/portfolio/9.jpg" alt="arc" data-no-retina>
+                                        </div>
+                                        <!-- Lightbox type Two Content -->
+                                        <a class="hidden-content lightbox-content" href="index02.html#" data-featherlight="#">
+                                            <span class="text-wrap">
+<span class="text font2">lightbox</span>
+                                            </span>
+                                            <span class="btnBefore"></span>
+                                            <span class="btnAfter"></span>
+                                        </a>
+                                        <!-- Lightbox Content -->
+                                        <div class="lightbox-content-dock img_only">
+                                            <div class="img-section">
+                                                <img class="img-responsive" src="images/portfolio/9.jpg" alt="arc" data-no-retina>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- #container -->
+
+                            </div>
+
+                        </article>
+                    </div>
+
+                </section>
+                <!-- container : ends -->
+            </section>
+            <!-- inner-section : ends -->
